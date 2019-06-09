@@ -72,6 +72,7 @@
 
 * [Java 基础知识回顾](docs/java/Java基础知识.md)
 * [J2EE 基础知识回顾](docs/java/J2EE基础知识.md)
+* [java序列化与反序列化]（https://www.cnblogs.com/xdp-gacl/p/3777987.html）
 
 ### 容器
 
