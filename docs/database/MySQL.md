@@ -29,7 +29,14 @@
 [MySQL集群（PXC）入门](https://www.imooc.com/learn/993)　　[MyCAT入门及应用](https://www.imooc.com/learn/951)
 
 ## 常见问题总结
-
+MySQL有深度的知识点主要包括：
+      1.存储引擎；
+      2.字符集及校对规则
+      3.索引
+      4.查询缓存
+      5.事务机制
+      6.锁机制
+      7.表优化（切分、主从分离等方面）
 - ### ①存储引擎
 
   [MySQL常见的两种存储引擎：MyISAM与InnoDB的爱恨情仇](https://juejin.im/post/5b1685bef265da6e5c3c1c34)
